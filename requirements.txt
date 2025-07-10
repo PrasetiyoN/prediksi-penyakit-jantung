@@ -1,6 +1,7 @@
-numpy
 pandas
+numpy
 streamlit
-pip
+pickle
+scikit-learn
 logistic regression
-sklearn
+
