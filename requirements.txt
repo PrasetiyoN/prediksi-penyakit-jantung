@@ -2,5 +2,5 @@ numpy
 pandas
 streamlit
 pip
-scikit-learn
+logistic regression
 sklearn
