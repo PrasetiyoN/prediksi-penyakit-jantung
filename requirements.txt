@@ -1,7 +1,5 @@
-pandas
-numpy
 streamlit
-pickle
+numpy
 scikit-learn
-logistic regression
+
 
